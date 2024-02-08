@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/filtering-react/static/css/main.22584bca.css",
+    "main.js": "/filtering-react/static/js/main.b3042813.js",
+    "index.html": "/filtering-react/index.html",
+    "main.22584bca.css.map": "/filtering-react/static/css/main.22584bca.css.map",
+    "main.b3042813.js.map": "/filtering-react/static/js/main.b3042813.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22584bca.css",
+    "static/js/main.b3042813.js"
+  ]
+}
